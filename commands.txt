@@ -1,0 +1,13 @@
+для создания проекта 
+
+  git init
+  git add .
+  git commit -m "любой коментарий"
+  git remote add ()
+  git push
+  
+
+ДЛЯ ОБНОВЛЕНИЯ
+  git add .
+  git commit -m "rjvftrn"
+  git push
